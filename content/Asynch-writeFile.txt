@@ -1,0 +1,1 @@
+Here is the result: Hello, iam the text from the first file., Hello, iam the second text file.
